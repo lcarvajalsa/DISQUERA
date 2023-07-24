@@ -1,3 +1,4 @@
+# proyecto denominado trimestreV
 """
 Django settings for trimestreV project.
 

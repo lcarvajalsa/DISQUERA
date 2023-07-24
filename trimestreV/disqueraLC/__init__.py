@@ -1,0 +1,1 @@
+#APP aplicación denominada disqueraLC

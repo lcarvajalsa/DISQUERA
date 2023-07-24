@@ -1,3 +1,4 @@
+# proyecto denominado trimestreV
 """
 WSGI config for trimestreV project.
 
